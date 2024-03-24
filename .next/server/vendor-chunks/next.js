@@ -131,6 +131,7 @@ eval("/* __next_internal_client_entry_do_not_use__  cjs */ \nObject.defineProper
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ "./node_modules/next/dist/client/link.js":
 /*!***********************************************!*\
   !*** ./node_modules/next/dist/client/link.js ***!
@@ -142,6 +143,8 @@ eval("/* __next_internal_client_entry_do_not_use__  cjs */ \nObject.defineProper
 
 /***/ }),
 
+=======
+>>>>>>> 3f0212b2f566572bd967edaf02ad0ae88a68d2bf
 /***/ "./node_modules/next/dist/client/normalize-trailing-slash.js":
 /*!*******************************************************************!*\
   !*** ./node_modules/next/dist/client/normalize-trailing-slash.js ***!
@@ -1117,6 +1120,7 @@ eval("module.exports = __webpack_require__(/*! ./dist/shared/lib/image-external 
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ "./node_modules/next/link.js":
 /*!***********************************!*\
   !*** ./node_modules/next/link.js ***!
@@ -1127,6 +1131,8 @@ eval("module.exports = __webpack_require__(/*! ./dist/client/link */ \"./node_mo
 
 /***/ }),
 
+=======
+>>>>>>> 3f0212b2f566572bd967edaf02ad0ae88a68d2bf
 /***/ "./node_modules/next/router.js":
 /*!*************************************!*\
   !*** ./node_modules/next/router.js ***!
