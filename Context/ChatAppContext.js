@@ -15,7 +15,13 @@ export const ChatAppProvider = ({children}) => {
     const [userLists,setUserLists] = useState([]);
     const [error, setError] = useState("");
     
-    
+    //chat user data
+    const [currectUserName,setCurrectUserName] = useState('');
+    const [currentUserAddress, setCurrectUserAddress] = useState("");
+
+    const router = useRouter();
+
+
     return (
 
         <ChatAppContect.Provider value={{}}>{children}</ChatAppContect.Provider>
