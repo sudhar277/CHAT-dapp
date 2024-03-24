@@ -32,7 +32,7 @@ export const connectWallet = async () => {
 }
 
 const fetchContract = (signerOrProvider) =>
-    new ethers.Contract(ChatAppAddress, ChatAppABI, signerOrProvider);
+    new ethers.Contract(ChatAppABI,ChatAppAddress,signerOrProvider);
 
 export const connectingWithContract = async () => {
     try {
